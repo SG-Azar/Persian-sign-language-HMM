@@ -1,5 +1,6 @@
 # Persian-sign-language-HMM
 Persian sign language recognition using hidden Markov models (HMMs)
+
 This is a demo code for Persian sign language recognition using hidden Markov models (HMMs). These codes implement the methodology used in [1] for a set of 8 signs as examples.
 
 Note: To run these codes, you need to first download Kevin Murphy’s HMM toolbox from the link below:
